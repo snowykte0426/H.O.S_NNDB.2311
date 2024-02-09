@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
+# main.py
 import time
-
 print('\033[92m'+'H.O.S NNDB.2311'+'\033[0m')
 time.sleep(0.5)
 class boot:
