@@ -596,6 +596,29 @@ class DB_CPU():
    print('TDP:45w\nCore:6\nVirtualization Core:None\nThread:12\nBase Clock:18120MHz\nBost Clock:23000MHz\nSocket:HC3\nMaxium Temperature:95℃\nAOB:fales')
    print('Innards Graphics:Graphics 650\nRelease:Jan 12.2022'+'\033[0m')
    continue
+  if f == 'Nano 5' or f == 'nano 5' or f=='nano5' or f=='Nano5' or f=='NANO5' or f=='NANO 5' or f=='ㅈ대따 소마고 과제':
+   print('\033[46m'+'Nano 5\nType:CPU\nBase:K128\nSeries:Nano')
+   print('Support Command:NKPCCPL,HCC,ORO2,ORO3,ORG,OROS,OTC,PTMD,Lans+,ALans+,intel+,AMD+,32bitAr,16bitAr,8bitAr,AIOS,FQSS,MEGA+,CCA3')
+   print('TDP:240w\nCore:128\nVirtualization Core:256\nThread:256\nBase Clock:5900MHz\nBost Clock:7000MHz\nSocket:AMHC\nMaxium Temperature:110℃\nAOB:true')
+   print('Innards Graphics:None\nRelease:Jan 30.2024'+'\033[0m')
+   continue 
+  if f=='Nano 5E' or f=='Nano5e' or f=='nano 5e' or f=='nano 5E' or f=='Nano5E' or f=='nano5e':
+   print('\033[46m'+'Nano 5E\nType:CPU\nBase:K128\nSeries:Nano')
+   print('Support Command:NKPCCPL,HCC,ORO2,ORO3,ORG,OROS,OTC,PTMD,Lans+,ALans+,intel+,AMD+,32bitAr,16bitAr,8bitAr,AIOS,FQSS,MEGA+,CCA3')
+   print('TDP:225w\nCore:124\nVirtualization Core:208\nThread:248\nBase Clock:5500MHz\nBost Clock:6600MHz\nSocket:AMHC\nMaxium Temperature:110℃\nAOB:true')
+   print('Innards Graphics:None\nRelease:Jan 30.2024'+'\033[0m')
+   continue 
+  if f=='Nano 5S' or f=='Nano5S' or f=='nano5s' or f=='nano 5s' or f=='NANO5S' or  f=='NANO 5S':
+   print('\033[46m'+'Nano 5S\nType:CPU\nBase:K128\nSeries:Nano')
+   print('Support Command:NKPCCPL,HCC,ORO2,ORO3,ORG,OROS,OTC,PTMD,Lans+,ALans+,intel+,AMD+,32bitAr,16bitAr,8bitAr,AIOS,FQSS,MEGA+,CCA3')
+   print('TDP:260w\nCore:152\nVirtualization Core:300\nThread:304\nBase Clock:6400MHz\nBost Clock:7500MHz\nSocket:AMHC\nMaxium Temperature:110℃\nAOB:true')
+   print('Innards Graphics:None\nRelease:Jan 30.2024'+'\033[0m')
+   continue
+  if f=='Nano 4X' or  f=='nano4x' or f=='Nano4X' or f=='nano 4x' or f=='NANO4X' or f=='NANO 4X':
+   print('\033[46m'+'Nano 4X\nType:CPU\nBase:K128\nSeries:Nano\nSupport Command:NKPCCPL,HCC,ORO2,ORO3,ORG,OROS,OTC,PTMD,Lans+,ALans+,intel+,AMD+,32bitAr,16bitAr,8bitAr,AIOS,FQSS')
+   print('TDP:340w\nCore:152\nVirtualization Core:128\nThread:304\nBase Clock:4900MHz\nBost Clock:5900MHz\nSocket:AMHC\nMaxium Temperature:110℃\nAOB:true')
+   print('Innards Graphics:None\nRelease:Jan 30.2024'+'\033[0m')
+   continue 
   if f == 'list' or f == 'List' or f == 'LIST' or f == 'Help' or f == 'HELP' or f == 'help':
    time.sleep(2)
    print('\033[41m'+'https://amondbabaro.notion.site/H-O-S_NNDB-2311-23b176e4e98045b1864119ea5e5e4fd3?pvs=4'+'\033[0m')
