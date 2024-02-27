@@ -1,15 +1,15 @@
 [24/02/02]
-[Caution] This document is a document that summarizes matters not embedded in other programs of the program (H.O.S_NNDB.2311), and defines the relationship between consumers (hereinafter referred to as B) and their company (hereinafter referred to as A). 
-1. All legal rights of the program (this includes copyrights, etc.) belong to A. This is an absolutely inviolable area.
-2. Inquiries about the program are received only through the officially recognized window of A.
-3. The commercial use of the program must be decided after consultation with A, and even if A refuses, B must comply with it.
-4,The program is an open source-based program that anyone can use after reprocessing, but it is indispensable to consult with A for commercial use and reprocessing under paragraph 3.
-5. In the event of an attack on a third party using the relevant program (including hacking attacks through illegal program modifications such as Trojan horse, ransomware, etc.), B is responsible for the illegal reprocessing, and A is irrelevant.
-6. It is not recommended that programs written in Visual C++ and Python 3.12, be written in other languages.
-7. During reprocessing, B is entirely responsible for the malfunction of the program due to reprocessing.
-8. When an error occurs in a program, it states that B and A are responsible for a 50:50 ratio, respectively. However, if the error is due to the programmer's mistake, A is responsible.
-9.The program has only been verified on the Windows 11 (23H2) operating system and the intel Gen 12 x64 processor, so A is not responsible for errors on other processors and operating systems.
-10.A declares that all modifications to the program should be recorded in the patnote.txt simply.
-11.All of the above matters are defined on February 2, 24, and can be modified at any time by A, and artificial modifications by B are not recognized.
-12.Eul must be aware of all of the above matters and follow them to be eligible to use the program, which is primarily judged by E's conscience and secondarily by A in the event of a problem later.
-13.A also declares that he will keep the above matters and engage in development and, as stated earlier, keep all of the above matters as one B.
+[Caution] This document defines the relationship between the consumer (hereinafter referred to as B) and the company (hereinafter referred to as A) as a summary of what is not embedded in other programs (H.O.S_NNDB.2311) in the program.
+1. All legal rights of the program (including copyrights, etc.) belong to A. This is an absolutely inviolable area.
+2. Inquiries about the program are only accepted through the officially recognized window of A.
+3. The commercial use of the program must be determined after consultation with A, and even if A refuses, B must comply.
+4,The program is an open source-based program that anyone can use after reprocessing, but it is essential to consult with A for commercial use and reprocessing under paragraph 3.
+5. In the event of an attack on a third party using the program (including a hacking attack through illegal program modification such as Trojan horse, ransomware, etc.), the responsibility for the illegal reprocessing lies with B, and A is irrelevant.
+6. It is recommended that programs written in Visual C and Python 3.12 be written in a different language.
+7. B is solely responsible for any malfunction of the program due to reprocessing during reprocessing.
+8. It is stated in the program that B and A are responsible for an error of 50:50, respectively. However, if the error is caused by a programmer's mistake, A is responsible.
+9.A is not responsible for errors in other processors and operating systems because the program has only been verified on Windows 11 (23H2) operating systems and Intel Gen 12 x64 processors.
+10.A declares that all modifications to the program should be recorded simply in patnote.txt.
+11. All of the above matters are stipulated on February 2, 24, and can be changed at any time by A, and artificial changes by B are not recognized.
+12. The program can be used only when all of the above matters are recognized and observed, which is primarily based on B's conscience, and secondly, A judges if any problems arise in the future.
+13. I also declare that I will abide by the above matters and work on development, and as stated earlier, I declare that I will keep all of the above matters as one me.
