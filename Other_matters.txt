@@ -1,4 +1,4 @@
-[24/02/02]
+[24/02/27]
 [Caution] This document defines the relationship between the consumer (hereinafter referred to as B) and the company (hereinafter referred to as A) as a summary of what is not embedded in other programs (H.O.S_NNDB.2311) in the program.
 1. All legal rights of the program (including copyrights, etc.) belong to A. This is an absolutely inviolable area.
 2. Inquiries about the program are only accepted through the officially recognized window of A.
