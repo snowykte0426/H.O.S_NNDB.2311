@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 # main.py
+from os import system
+system("title "+"H.O.S_NNDB_2311 v1.3.1")
 import time
 print('\033[92m'+'H.O.S NNDB.2311'+'\033[0m')
 time.sleep(0.5)
